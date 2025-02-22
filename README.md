@@ -20,3 +20,6 @@ This academic project, conducted during the second year of engineering studies a
 ### Processor Schematic Design
 - Created the **high-level schematic** of the RISPIC processor using digital design tools, integrating core components such as the ALU, registers, and control unit.
 - Validated the architecture through functional simulations and iterative testing.
+
+#Rqs : 
+The src folder contains the LaTeX source code.
